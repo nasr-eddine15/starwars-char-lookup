@@ -1,0 +1,86 @@
+@import url(//db.onlinewebfonts.com/c/0c724f6aa457310440cf8949c615cbd7?family=Star+Jedi);
+body {
+  background-image: url(https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-25.jpg);
+  /* background-repeat: no-repeat; */
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.heading {
+  text-align: center;
+  font-family: "Star Jedi", arial;
+}
+
+.title {
+  font-size: 5rem;
+  line-height: 3rem;
+  color: #ffc31f;
+  padding-top: 3rem;
+}
+.subtitle {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.search-area {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.prompt {
+  color: #fff;
+  font-family: "Star Jedi", arial;
+}
+
+.search-button {
+  background-color: #ffc31f !important;
+  border-color: #ffc31f !important;
+}
+
+.search-button:hover {
+  background: #ffda76 !important;
+  border-color: #ffda76 !important;
+  color: #ff7300 !important;
+
+  /* opacity: 0.8; */
+}
+
+.display-box {
+  font-family: "Pathway Gothic One", sans-serif;
+  font-size: 200%;
+  font-weight: 600;
+  color: #fff;
+  margin: auto;
+  padding: 0 1rem;
+  margin-top: 3rem;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  width: 70%;
+  height: 500px;
+  overflow-y: scroll;
+}
+
+.char-info {
+  padding-top: 20px;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+.info-title {
+  color: #ffc935;
+}
+.info-subtitle {
+  color: #ffe18e;
+}
+
+.row-space {
+  /* line-height: 2rem; */
+}
