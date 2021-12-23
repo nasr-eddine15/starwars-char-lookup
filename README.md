@@ -1,5 +1,28 @@
-# starwars-char-lookup
+# REDspace Star Wars Character Look Up
 
-# npm i then npm start to start the server
+## Installation instructions
 
-# cd frontend/ then npm i then npm start to run the app locally
+In the project directory, you can run:
+
+### `npm i`
+
+Installs the server dependencies.
+
+Then you can run:
+
+### `npm start`
+
+to start the developmental server.
+
+change directory to the frontend/ folder then run:
+
+### `npm i`
+
+to install the react dependencies.
+
+Then you can run:
+
+### `npm start`
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
